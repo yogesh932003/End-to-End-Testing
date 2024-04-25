@@ -1,4 +1,4 @@
-# - End-to-End-Testing
+# End-to-End-Testing
 
 1. Developed an automated End-to-End Automation project using Java, Selenium WebDriver, TestNG, and Eclipse for web testing.
 2. Utilized Selenium WebDriver for browser automation, TestNG for test management, and Eclipse IDE for development.
